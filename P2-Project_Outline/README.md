@@ -7,12 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I I designed an app with the general user in mind for easy accessibility and user friendly.
+It keeps several information codes pertaining to one single trip, in one place for easy access when such information is needed.
+
 ### Features
-Include Features here
+Gather reservation codes from Airline, Hotel and Car Rental from a travel destination. 
 ### Technologies
-Include Technologies here
+ C#, HTML, CSS, .NET
 ### What I'll Have to Learn
-Include what you will need to learn here
+Create a database to keep track of a trip information, user registration and login field.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/HgtQyYPy/liftoff
+
