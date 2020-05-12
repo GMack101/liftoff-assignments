@@ -24,4 +24,4 @@ Here is the link to my trello board: https://trello.com/b/HgtQyYPy/liftoff
 
 Include a link to your project on GitHub.
 
-Here is the link to my initial project repo (in progress):
+Here is the link to my initial project repo (in progress): https://github.com/GMack101/TripTrack
