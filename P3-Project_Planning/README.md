@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-here is the link to my wireframes: 
+here is the link to my wireframes: https://github.com/GMack101/liftoff-assignments/issues/1#issue-616937118
 
 
 ### Project Tracker
