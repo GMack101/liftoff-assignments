@@ -17,7 +17,7 @@ here is the link to my wireframes: https://github.com/GMack101/liftoff-assignmen
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-Here is the link to my trello board:
+Here is the link to my trello board: https://trello.com/b/HgtQyYPy/liftoff
 
 
 ### Project Repo Link
