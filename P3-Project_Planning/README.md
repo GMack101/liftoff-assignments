@@ -10,18 +10,25 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-here is the link to my wireframes: https://github.com/GMack101/liftoff-assignments/issues/1#issue-616937118
+<ul>
+    <li> here is the link to my wireframes: https://github.com/GMack101/liftoff-assignments/issues/1#issue-616937118  </li>
+</ul>
+  
 
 
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
-Here is the link to my trello board: https://trello.com/b/HgtQyYPy/liftoff
+<ul>
+  <li> Here is the link to my trello board: https://trello.com/b/HgtQyYPy/liftoff  </li>
+</ul>
 
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
 
-Here is the link to my initial project repo (in progress): https://github.com/GMack101/TripTrack
+<ul>
+  <li> Here is the link to my initial project repo (in progress): https://github.com/GMack101/TripTrack   </li>
+</ul>
